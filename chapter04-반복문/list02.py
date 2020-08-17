@@ -42,8 +42,9 @@ list_d = [5,6,7,8,8,9]
 print("삭제 전 : ", list_d)
 list_d.clear()
 print("삭제 후 : ", list_d)
-print
+print()
 
+print("# 리스트 내부에 값이 있는지 확인")
 list_e = [273, 552, 13, 92]
 print("list_e : ", list_e)
 print("273 in list_e :", 273 in list_e)
